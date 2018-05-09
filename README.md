@@ -1,12 +1,11 @@
 NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
-# Your Project Title Here
-
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+# Starry Night Interactive Painting
+We propose making an interactive version of Van Gogh's Starry Night, which invites the user to blow on the painting, triggering LEDs behind the painting to blink in different patterns, resembling the movement of stars and wind. The bottom right of the painting includes a town with houses that will also have LEDs that turn on and off to mimic people moving about the town. 
 
 ## Team
 
-A list of your team members here.
+By Andy Jin, Sasha Manghise, Jennifer Xiao, and Annabel Yau
 
 ## Summary
 
@@ -16,9 +15,12 @@ Include a discussion how it will be interactive or responsive to the environment
 
 ## Component Parts
 
-From what pieces did you build your project?
+An artistic representation of Starry Night was painted on a large sheet of paper that allowed the light of the LEDs to diffuse through.
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+Components:
+Cardboard frame with wooden supports and a large sheet of semi-transparent paper to display painting
+Microphone to detect user’s breath (INPUT)
+Individual neopixels soldered together and a neopixel strip, to resemble stars and wind (OUTPUT)
 
 ## Challenges
 
@@ -26,13 +28,11 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 
 ## Timeline
 
-What did you do in each of the past five weeks?
-
-- Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
-- Week 5: Present!
+- Week 1: Write proposal 
+- Week 2: Purchase microphone and neopixels and create a mockup of where we wanted all of the LEDs to be 
+- Week 3: Programmed sensors and finalized layout of LEDs
+- Week 4: Finished painting Starry Night, created frame
+- Week 5: Assembled all components, debugged neopixels, presented
 
 ## Completed Work
 
