@@ -42,8 +42,7 @@ Photos and videos of your completed final project!
 
 ## References and links
 
-**Final Showcase One Page Description**
-
+**Final Showcase One Page Description**:
 https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/starry%20night%20poster.pdf
 
 1. A similar interactive painting that allows a user to blow on dandelion lights that are painted using a traditional Chinese brush painting style: https://vimeo.com/40904471 
