@@ -20,6 +20,10 @@ Cardboard frame with wooden supports and a large sheet of semi-transparent paper
 Microphone to detect user’s breath (INPUT)
 Individual neopixels soldered together and a neopixel strip, to resemble stars and wind (OUTPUT)
 
+### Block Diagram
+![alt text](https://raw.githubusercontent.com/ayau3/Final-Project/master/Screen%20Shot%202018-04-03%20at%204.40.49%20PM.png)
+![alt text](https://raw.githubusercontent.com/ayau3/Final-Project/master/Screen%20Shot%202018-04-03%20at%204.41.29%20PM.png)
+
 ## Challenges
 
 A brief discussion of what was hard, challenging, or unexpected about your project.
