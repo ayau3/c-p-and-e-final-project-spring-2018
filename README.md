@@ -43,7 +43,7 @@ Photos and videos of your completed final project!
 ## References and links
 
 **Include a link to your final showcase one-pager here in PDF format.**
-![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/starry%20night%20poster.pdf)
+https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/starry%20night%20poster.pdf
 
 1. A similar interactive painting that allows a user to blow on dandelion lights that are painted using a traditional Chinese brush painting style: https://vimeo.com/40904471 
 2. Research on the meaning and inspiration behind the original starry night:
