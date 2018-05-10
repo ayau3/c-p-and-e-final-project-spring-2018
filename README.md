@@ -1,5 +1,3 @@
-NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
-
 # Starry Night Interactive Painting
 We propose making an interactive version of Van Gogh's Starry Night, which invites the user to blow on the painting, triggering LEDs behind the painting to blink in different patterns, resembling the movement of stars and wind. The bottom right of the painting includes a town with houses that will also have LEDs that turn on and off to mimic people moving about the town. 
 
@@ -11,7 +9,7 @@ By Andy Jin, Sasha Manghise, Jennifer Xiao, and Annabel Yau
 
 Here, write a paragraph or two describing what you built for your final project and what was challenging. 
 
-Include a discussion how it will be interactive or responsive to the environment.
+The main goal of the project is to incorporate interactive elements into Van Gogh’s Starry Night through the use of LEDs and sound sensors positioned behind a semi-transparent representation of the painting. The audience will first blow into a small microphone on the left side of the painting, positioned behind the gust of wind. This will trigger a succession of LEDs to light up across the painting throughout the gusts of wind, then fade away. Then by pressing the capacitive touch sensor at the center of each star, the lights surrounding the centers will light up and fade, mimicking a glowing effect. 
 
 ## Component Parts
 
@@ -30,9 +28,9 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 
 - Week 1: Write proposal 
 - Week 2: Purchase microphone and neopixels and create a mockup of where we wanted all of the LEDs to be 
-- Week 3: Programmed sensors and finalized layout of LEDs
-- Week 4: Finished painting Starry Night, created frame
-- Week 5: Assembled all components, debugged neopixels, presented
+- Week 3: Program sensors and finalize layout of LEDs
+- Week 4: Finish painting Starry Night, create frame
+- Week 5: Assemble all components, debug neopixels, present
 
 ## Completed Work
 
@@ -42,4 +40,10 @@ Photos and videos of your completed final project!
 
 **Include a link to your final showcase one-pager here in PDF format.**
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+1. A similar interactive painting that allows a user to blow on dandelion lights that are painted using a traditional Chinese brush painting style: https://vimeo.com/40904471 
+2. Research on the meaning and inspiration behind the original starry night:
+3. https://www.moma.org/learn/moma_learning/vincent-van-gogh-the-starry-night-1889 
+  - “This morning I saw the countryside from my window a long time before sunrise, with nothing but the morning star, which looked very big,” wrote van Gogh to his brother Theo, describing his inspiration for one of his best-known paintings, The Starry Night (1889). 
+4. http://mentalfloss.com/article/62621/11-things-you-didnt-know-about-starry-night
+  - This connection gives a special significance to this van Gogh quote, "Looking at the stars always makes me dream. Why, I ask myself, shouldn't the shining dots of the sky be as accessible as the black dots on the map of France? Just as we take the train to get to Tarascon or Rouen, we take death to reach a star."
+5. TED Ed: The Unexpected Math behind The Starry Night: https://www.youtube.com/watch?v=PMerSm2ToFY
