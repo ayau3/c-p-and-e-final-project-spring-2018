@@ -7,7 +7,7 @@ By Andy Jin, Sasha Manghise, Jennifer Xiao, and Annabel Yau
 
 ## Summary
 
-Here, write a paragraph or two describing what you built for your final project and what was challenging. 
+Here, write a paragraph or two describing what you built for your final project and what was challenging. !!!!!!!!!!!
 
 The main goal of the project is to incorporate interactive elements into Van Gogh’s Starry Night through the use of LEDs and sound sensors positioned behind a semi-transparent representation of the painting. The audience will first blow into a small microphone on the left side of the painting, positioned behind the gust of wind. This will trigger a succession of LEDs to light up across the painting throughout the gusts of wind, then fade away. Then by pressing the capacitive touch sensor at the center of each star, the lights surrounding the centers will light up and fade, mimicking a glowing effect. 
 
@@ -26,7 +26,7 @@ Individual neopixels soldered together and a neopixel strip, to resemble stars a
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+A brief discussion of what was hard, challenging, or unexpected about your project. !!!!!!!
 
 ## Timeline
 
@@ -38,7 +38,7 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 
 ## Completed Work
 
-Photos and videos of your completed final project!
+Photos and videos of your completed final project!!!!!
 
 ## References and links
 
