@@ -23,7 +23,7 @@ Individual neopixels soldered together and a neopixel strip, to resemble stars a
 ### Block Diagram
 ![alt text](https://raw.githubusercontent.com/ayau3/Final-Project/master/Screen%20Shot%202018-04-03%20at%204.40.49%20PM.png)
 ![alt text](https://raw.githubusercontent.com/ayau3/Final-Project/master/Screen%20Shot%202018-04-03%20at%204.41.29%20PM.png)
-![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7847.MOV)
+
 ## Challenges
 
 A brief discussion of what was hard, challenging, or unexpected about your project. !!!!!!!
@@ -38,9 +38,9 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 
 ## Completed Work
 
-Photos and videos of your completed final project!!!!!
 ![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7864.JPG)
 ![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7869.JPG)
+![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7847.MOV)
 
 ## References and links
 
