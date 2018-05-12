@@ -39,6 +39,7 @@ A brief discussion of what was hard, challenging, or unexpected about your proje
 ## Completed Work
 
 Photos and videos of your completed final project!!!!!
+![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7864.JPG)
 
 ## References and links
 
