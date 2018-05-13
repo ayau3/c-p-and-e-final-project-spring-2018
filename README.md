@@ -7,9 +7,9 @@ By Andy Jin, Sasha Manghise, Jennifer Xiao, and Annabel Yau
 
 ## Summary
 
-Here, write a paragraph or two describing what you built for your final project and what was challenging. !!!!!!!!!!!
+The main goal of the project is to incorporate interactive elements into Van Gogh’s Starry Night through the use of LEDs and sound sensors positioned behind a semi-transparent representation of the painting. The audience will first blow into a small microphone on the left side of the painting, positioned behind the gust of wind. This will trigger a succession of LEDs to light up across the painting throughout the gusts of wind, then fade away. Then by pressing the capacitive touch sensor at the center of each star, the lights surrounding the centers will light up and fade, mimicking a glowing effect.
 
-The main goal of the project is to incorporate interactive elements into Van Gogh’s Starry Night through the use of LEDs and sound sensors positioned behind a semi-transparent representation of the painting. The audience will first blow into a small microphone on the left side of the painting, positioned behind the gust of wind. This will trigger a succession of LEDs to light up across the painting throughout the gusts of wind, then fade away. Then by pressing the capacitive touch sensor at the center of each star, the lights surrounding the centers will light up and fade, mimicking a glowing effect. 
+Following the project we found that the most challenging part was soldering and configuring the neopixels, which hindered our progress and prevented all of the stars from working.
 
 ## Component Parts
 
@@ -26,7 +26,7 @@ Individual neopixels soldered together and a neopixel strip, to resemble stars a
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project. !!!!!!!
+The most challenging part of our project was mainly the tedium of soldering together the neopixel stars. In order to create neopixel rings, we soldered together individual neopixels. However, the wires kept breaking or the connections weren't strong enough, so we had to resolder them countless times. We eventually hot-glued each of the connections to reinforce them, but in the end, not all of the stars lit up. This also made it difficult to connect them to the capacitive touch sensors. In the future, we would likely buy rather than solder neopixels because it would be less time-consuming. 
 
 ## Timeline
 
