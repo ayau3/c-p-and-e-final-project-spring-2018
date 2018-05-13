@@ -38,6 +38,7 @@ The most challenging part of our project was mainly the tedium of soldering toge
 
 ## Completed Work
 
+![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/imagejpeg_0.jpg)
 ![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7864.JPG)
 ![alt text](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7869.JPG)
 ![click link to view video of project](https://github.com/ayau3/c-p-and-e-final-project-spring-2018/blob/master/IMG_7847.MOV)
